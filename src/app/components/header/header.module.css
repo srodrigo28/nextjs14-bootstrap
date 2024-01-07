@@ -1,0 +1,32 @@
+.header{
+  background-color: darkblue;
+
+  padding: 0 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  width: 100%;
+  height: 15vh;
+}
+.logo{
+  background-color: aqua;
+}
+.menu{
+  gap: 25px;
+  display: flex;
+  padding: 20px;
+}
+.menu p{
+  padding: 15px;
+}
+.menu p:hover{
+  cursor: pointer;
+  padding: 15px;
+  color: #fff;
+  background-color: #000;
+
+  border-radius: 10px 0 10px 0;
+}
+
+

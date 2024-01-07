@@ -1,0 +1,16 @@
+body{
+    background-color: darkviolet;
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    list-style: none;
+    text-decoration: none;
+}
+a:visited{
+    color: #fff;
+}
+
+    
